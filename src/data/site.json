@@ -7,7 +7,7 @@
     "subtitle": "Basınçlı kaplardan kaldırma ekipmanlarına, elektrik tesisatından yangın sistemlerine kadar tüm iş ekipmanlarınızın yasal periyodik muayenelerini raporluyoruz. 6331 sayılı kanun ve ilgili yönetmeliklere tam uyum.",
     "ctaPrimary": "Muayene Hizmetleri",
     "ctaSecondary": "Teklif Alın",
-    "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=1600&auto=format&fit=crop"
+    "image": "https://www.progepi.it/wp-content/uploads/2019/05/6.jpg"
   },
   "stats": [
     {
@@ -33,42 +33,42 @@
       "title": "Basınçlı Kap Muayenesi",
       "desc": "Buhar ve kalorifer kazanları, hava tankları, kompresörler, genleşme tankları, hidrofor ve otoklavların hidrostatik test ve göz muayeneleri.",
       "icon": "🔧",
-      "image": "https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?q=80&w=1200&auto=format&fit=crop"
+      "image": "https://cbnmuhendislik.com/wp-content/uploads/2025/01/basincli-kaplarin-periyodik-kontrol-1140x595-1.jpg"
     },
     {
       "id": "kaldirma-iletme",
       "title": "Kaldırma ve İletme Ekipmanları",
       "desc": "Vinç, caraskal, forklift, transpalet, mobil platform, asansör ve yürüyen merdivenlerin yük testi ve fonksiyon kontrolleri.",
       "icon": "🏗️",
-      "image": "https://images.unsplash.com/photo-1516937941344-00b4e0337589?q=80&w=1200&auto=format&fit=crop"
+      "image": "https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_860/https://fatihistif.com/wp-content/uploads/2024/09/ssssssssssss-860x645.jpg"
     },
     {
       "id": "elektrik",
       "title": "Elektrik Tesisatı Ölçümleri",
       "desc": "Topraklama, paratoner, kaçak akım rölesi, pano uygunluk, termal kamera ve elektrik iç tesisat periyodik kontrolleri.",
       "icon": "⚡",
-      "image": "https://images.unsplash.com/photo-1581092160562-40aa08e78837?q=80&w=1200&auto=format&fit=crop"
+      "image": "https://www.fidergrup.com/wp-content/uploads/2020/05/%C3%96L%C3%87%C3%9CMLER-2.jpg"
     },
     {
       "id": "yangin",
       "title": "Yangın Tesisatı Kontrolü",
       "desc": "Hidrant, sprinkler, yangın pompası, algılama ve alarm sistemleri ile söndürme tüplerinin fonksiyon ve basınç kontrolleri.",
       "icon": "🧯",
-      "image": "https://images.unsplash.com/photo-1565043666747-69f6646db940?q=80&w=1200&auto=format&fit=crop"
+      "image": "https://www.aplasgroup.com.tr/wp-content/uploads/2020/05/yangin-tesisati-aplas-enerji-sistemleri-antalya.jpg"
     },
     {
       "id": "is-makineleri",
       "title": "Tezgâh ve Raf Sistemleri",
       "desc": "Pres, torna, freze gibi iş tezgâhları ile depo raf sistemlerinin deformasyon, bağlantı ve taşıma kapasitesi kontrolleri.",
       "icon": "🏭",
-      "image": "https://images.unsplash.com/photo-1581094794329-c8112a89af12?q=80&w=1200&auto=format&fit=crop"
+      "image": "https://yilkarlazer.com/wp-content/uploads/2024/01/karadeniz_raf_yapi_market_ve_hirdavat_raf_sistemleri-1024x683.jpg"
     },
     {
       "id": "ortam-olcum",
       "title": "Ortam ve Hijyen Ölçümleri",
       "desc": "Aydınlatma, gürültü, titreşim, toz ve termal konfor ölçümleriyle çalışma ortamınızın mevzuata uygunluğunu belgeliyoruz.",
       "icon": "📋",
-      "image": "https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=1200&auto=format&fit=crop"
+      "image": "https://shoesforcrews.pro/cdn/shop/articles/202504P2UK-featured-image.jpg?v=1784304090"
     }
   ],
   "about": {
