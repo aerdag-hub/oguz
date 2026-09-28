@@ -32,16 +32,8 @@ export default function Navbar({
       {/* Ana menü */}
       <div className="border-b border-slate-200/70 bg-white/90 shadow-[0_2px_20px_-10px_rgba(2,6,23,0.3)] backdrop-blur-xl">
         <div className="mx-auto flex h-20 max-w-6xl items-center justify-between gap-4 px-4">
-          <Link href="/" className="flex min-w-0 items-center gap-3">
+          <Link href="/" className="flex min-w-0 items-center gap-3" aria-label="Ana Sayfa">
             <SiteLogo siteName={siteName} />
-            <span className="hidden flex-col leading-tight lg:flex">
-              <span className="font-display text-[17px] font-extrabold tracking-tight text-slate-900">
-                BURSA PERİYODİK
-              </span>
-              <span className="text-[11px] font-semibold uppercase tracking-[0.28em] text-amber-600">
-                Kontrol
-              </span>
-            </span>
           </Link>
           <nav className="hidden items-center gap-1 text-sm font-semibold text-slate-700 md:flex">
             {[
